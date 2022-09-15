@@ -17,4 +17,5 @@ You agree not to, and You will not permit others to:
 2. Remove, alter or obscure any proprietary notice (including any notice of copyright or trademark) of I or its affiliates, partners, suppliers or the licensors of the webpage
 
 
-Copyright: Daniel Rotich ©2022
+Copyright: 
+Daniel Rotich ©2022
