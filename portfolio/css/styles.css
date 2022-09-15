@@ -4,6 +4,10 @@ img {
     border-radius: 50%;
 }
 
+strong {
+    font-weight: bold;
+  }
+  
 header {
     background-color: #666;
     padding: 20px;
