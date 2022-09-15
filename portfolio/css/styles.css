@@ -4,6 +4,7 @@
     border-top: 3px solid grey;
     border-bottom: 3px solid grey;
     padding: 5px;
+    background-color: #ddd;
     flex: auto;
 }
 
