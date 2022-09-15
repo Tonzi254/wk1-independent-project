@@ -2,7 +2,7 @@ Project Name: Portfolio Landing Page
 
 Author Name: Daniel Rotich
 
-Description: This is a webpage to showcase my portfolio of web applications that I have developed myself over the years.
+Project Description: This is a webpage to showcase my portfolio of web applications that I have developed myself over the years.
 
 Project URL: 
 
@@ -17,4 +17,5 @@ You agree not to, and You will not permit others to:
 2. Remove, alter or obscure any proprietary notice (including any notice of copyright or trademark) of I or its affiliates, partners, suppliers or the licensors of the webpage
 
 
-Copyright: Daniel Rotich ©2022
+Copyright: 
+Daniel Rotich ©2022
