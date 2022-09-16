@@ -1,10 +1,19 @@
-Project Name: Portfolio Landing Page
+Application Name: Portfolio Landing Page
 
-Author Name: Daniel Rotich
+Description: This is a webpage to showcase my portfolio of web applications that I have developed myself over the years. It should only be used to get an overview of who I am, my background and my projects
 
-Project Description: This is a webpage to showcase my portfolio of web applications that I have developed myself over the years.
+Author: Daniel Rotich
 
-Project URL: https://tonzi254.github.io/wk1-independent-project/portfolio/index.html 
+Setup Requirements
+*Open your web browser
+*Enter this URL on the address bar https://tonzi254.github.io/wk1-independent-project/portfolio/index.html
+*Press enter and that's it
+
+Known Bugs: None
+
+Technologies used: HTML, CSS and VSCodium
+
+Support and contact details: Please send an e-mail to dante_dot_skilz_at_gmail_dot_com
 
 License Information:
 
@@ -16,5 +25,4 @@ You agree not to, and You will not permit others to:
 2. Remove, alter or obscure any proprietary notice (including any notice of copyright or trademark) of I or its affiliates, partners, suppliers or the licensors of the webpage
 
 
-Copyright: 
-Daniel Rotich ©2022
+Copyright ©2022 Daniel Rotich 
