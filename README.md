@@ -4,8 +4,7 @@ Author Name: Daniel Rotich
 
 Project Description: This is a webpage to showcase my portfolio of web applications that I have developed myself over the years.
 
-Project URL: 
-
+Project URL: https://tonzi254.github.io/wk1-independent-project/portfolio/index.html 
 
 License Information:
 
